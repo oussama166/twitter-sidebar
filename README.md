@@ -16,7 +16,7 @@ A React project that implements a sidebar similar to Twitter's sidebar, allowing
 
    ```bash
    git clone https://github.com/your-username/twitter-sidebar.git
-  
+   ```
 
 2. Navigate to project
 
@@ -26,9 +26,9 @@ A React project that implements a sidebar similar to Twitter's sidebar, allowing
 
 3. Install the dependencies
   
-  ```bash
-      npm install
-  ```
+   ```bash
+         npm install
+   ```
 
 ## Usage
 
